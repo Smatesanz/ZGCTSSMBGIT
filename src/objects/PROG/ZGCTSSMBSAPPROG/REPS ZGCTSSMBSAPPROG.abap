@@ -6,4 +6,4 @@
 REPORT ZGCTSSMBSAPPROG.
 
 
-write 'Transfer SAP program to repository GIT'.
+write 'Transfer SAP program to repository GIT.'.
