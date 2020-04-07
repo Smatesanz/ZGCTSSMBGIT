@@ -1,1 +1,1 @@
-{"name":"ZGCTSSMBSAP","version":"1.0.0","license":"MIT","description":"ZGCTSSMBSAP","repositoryLayout":{"formatVersion":"1","format":"xml","objectStorage":"plain","metaInformation":".gctsmetadata/"}}
+{"name":"ZGCTSSMBSAP","version":"1.0.0","license":"MIT","description":"ZGCTSSMBSAP","repositoryLayout":{"formatVersion":"1","format":"xml","objectStorage":"plain","metaInformation":".gctsmetadata/"},"dependencies":[{"name":"ZGCTSSMBGIT","version":"1.0.1","branch":"master","url":"https://github.com/Smatesanz/ZGCTSSMBGIT"}]}
